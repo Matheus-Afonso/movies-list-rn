@@ -1,0 +1,15 @@
+Tenta criar um app de listagem de filmes
+Telas: 
+1- Lista de filmes consumindo 
+• Lista ou Coleção de filmes
+• Imagem, nome, genero do filme
+• botão de ver mais detalhes
+• botão de favoritar um filme
+2- Tela de detalhes de um filme (aberta ao clicar num filme da lista)
+• imagem, nome, sinopse, genero, alguma outra informação que a API mandar e vc achar legal, botão de favoritar.
+Api:
+• https://developers.themoviedb.org/3/getting-started/introduction
+Integrações:
+• Firebase: https://rnfirebase.io/ (Usar CloudFire Store para salvar os filmes favoritados)
+Libs:
+• react-navigation
