@@ -9,7 +9,6 @@ export default function App() {
 
 /**
  * LISTA DO QUE FAZER
- * - TODO: Pegar as informações de chave da API e salvar em algum lugar privado
  * - TODO: Criar a navegação em tabs para a página de favoritos
  * - TODO: Criar o botão de favoritar
  */
